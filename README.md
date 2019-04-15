@@ -4,11 +4,10 @@ Modern C++ inside (STL included)
 ---
 
 ## Intro:
-________________________________________________
-| **DATA** needs to be **MANIPULATED** easily.  |			   ________
-| **DATA** is stored in **CONTAINERS**.         |_____ 📦 ___ | S T L |
-| **DATA** is manipulated using **ALGORITHMS**. |              --------
-|_______________________________________________|
+
+ **DATA** needs to be **MANIPULATED** easily.  			   
+ **DATA** is stored in **CONTAINERS**.         ↔ 📦 S T L
+ **DATA** is manipulated using **ALGORITHMS**.               
 
 
 **CONTAINERS** are of two types;
@@ -20,7 +19,7 @@ ________________________________________________
 
 
 
-**STL World Map** (by [Jonathan Boccara] (https://www.fluentcpp.com ))
+**STL World Map** (by [Jonathan Boccara](https://www.fluentcpp.com ))
 ![alt text][stl-map]
 
 [stl-map]: ./assets/stl_world_map_800.jpg "STL World Map"
