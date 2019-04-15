@@ -12,13 +12,17 @@ ________________________________________________
 
 
 **CONTAINERS** are of two types;
+
+
 ..* _Sequential_ Containers   [Vector, List]
+
 ..* _Associative_ Containers  [Maps, Sets, MultiMap]
 
 
-**STL World Map** (by Jonathan Boccara![alt text][fluentcpp]): 
+
+**STL World Map** (by [Jonathan Boccara] (https://www.fluentcpp.com ))
 ![alt text][stl-map]
 
-Assets:
 [stl-map]: ./assets/stl_world_map_800.jpg "STL World Map"
-[fluent-cpp]: https://www.fluentcpp.com "Fluent CPP"
+
+
