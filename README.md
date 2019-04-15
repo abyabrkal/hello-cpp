@@ -6,14 +6,15 @@ Modern C++ inside (STL included)
 ## Intro:
 
  **DATA** needs to be **MANIPULATED** easily.  			   
- **DATA** is stored in **CONTAINERS**.         ↔ 📦 S T L
- **DATA** is manipulated using **ALGORITHMS**.               
+ **DATA** is stored in **CONTAINERS**.         
+ **DATA** is manipulated using **ALGORITHMS**.   
 
+## 📦 S T L
 
 **CONTAINERS** are of two types;
 
 
-..* _Sequential_ Containers   [Vector, List]
+..* _Sequential_ Containers   [Vector, List, Deque]
 
 ..* _Associative_ Containers  [Maps, Sets, MultiMap]
 
